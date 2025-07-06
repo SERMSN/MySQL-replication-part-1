@@ -39,8 +39,8 @@
 ### Выполнение задания 2
 Выполнение через docker-compose файл по [ссылке](files/docker-compose.yml).
 
-Конфиг mysql-master по [ссылке my.cnf](files/master/my.cnf)
-Конфиг mysql-slave по [ссылке my.cnf](files/slave/my.cnf)
+- Конфиг mysql-master по [ссылке my.cnf](files/master/my.cnf)
+- Конфиг mysql-slave по [ссылке my.cnf](files/slave/my.cnf)
 
 Подняты два контенера:
 - mysql-master
